@@ -6,7 +6,7 @@ import java.io.ObjectInputStream;
 import java.util.ArrayList;
 import java.util.Vector;
 public class Admin {
-	
+	cdck
 	
     public Student addStudents(String name,int id, int yearOfStudy, String faculty) {
     			Student s = new Student(name,id,yearOfStudy,faculty);
